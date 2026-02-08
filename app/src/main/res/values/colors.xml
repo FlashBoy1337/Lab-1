@@ -1,0 +1,8 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <!-- ... старые цвета ... -->
+
+    <!-- ДОБАВЬ ВОТ ЭТУ СТРОЧКУ: -->
+    <color name="my_background_color">#00BCD4</color>
+</resources>

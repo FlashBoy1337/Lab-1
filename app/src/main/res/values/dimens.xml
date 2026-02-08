@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_standard">16dp</dimen>
+
+
+    <dimen name="font_header">24sp</dimen>
+
+
+    <dimen name="font_body">18sp</dimen>
+    <dimen name="avatar_size">150dp</dimen>
+    <dimen name="avatar_top">250dp</dimen>
+
+    <dimen name="avatar_top_margin">300dp</dimen>
+</resources>
